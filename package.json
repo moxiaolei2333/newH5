@@ -1,0 +1,34 @@
+{
+  "name": "mynewprojecth5",
+  "version": "1.0.0",
+  "description": "最新仓库",
+  "main": "index.js",
+  "dependencies": {
+    "_enhanced-resolve@4.1.0@enhanced-resolve": "^4.1.0",
+    "_chrome-trace-event@1.0.2@chrome-trace-event": "^1.0.2",
+    "_ajv-keywords@3.4.1@ajv-keywords": "^3.4.1",
+    "_ajv@6.10.2@ajv": "^6.10.2",
+    "_eslint-scope@4.0.3@eslint-scope": "^4.0.3",
+    "_webpack@4.39.3@webpack": "^4.39.3",
+    "_acorn@6.3.0@acorn": "^6.3.0",
+    "_mamacro@0.0.3@mamacro": "^0.0.3"
+  },
+  "devDependencies": {
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moxiaolei2333/newH5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moxiaolei2333/newH5/issues"
+  },
+  "homepage": "https://github.com/moxiaolei2333/newH5#readme"
+}
